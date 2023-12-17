@@ -1,1 +1,3 @@
 ini isi file-1
+
+menambahkan baris baru di file-1
